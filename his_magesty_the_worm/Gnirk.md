@@ -35,12 +35,10 @@ Kin: Troll
 #### Kin Talent
 
 - Giants Strength
-- Wounded ( )
 
 #### Arete
 
-- Talent: Colossal
-- Wounded ( )
+- ~~Talent: Colossal~~
 - Deeds
   - [ ] Craft Something that will last forever
   - [ ] Recovering a precious gem or work of fine art and hoarding it as a grave good
@@ -88,10 +86,18 @@ Kin: Troll
 
 ## Status
 
+### Wounds
+
+- [ ] Gramayre
+- [ ] Magic of the Weird
+- [ ] Giants Strength
+
 - [ ] Stressed
 - [ ] Staggered
 - [ ] Injured
 - [ ] Death's Door
+
+### Charges
 
 Resolve: 4
 Lore: 1
