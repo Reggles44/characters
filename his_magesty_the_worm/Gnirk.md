@@ -14,6 +14,8 @@
     - [Party Quest](#party-quest)
     - [Personal Quest](#personal-quest)
   - [Status](#status)
+    - [Wounds](#wounds)
+    - [Charges](#charges)
     - [Experience](#experience)
     - [Diseases](#diseases)
     - [Path Talents](#path-talents)
