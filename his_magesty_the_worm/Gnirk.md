@@ -157,7 +157,7 @@ TODO
 | 2 | A pouch of powder | Sleep ( ) |
 | 3 | A twine of tails from a rat king|Change Size ( ) |
 | 4 | The funerary winding-sheet of one who died by an elf's arroww|Shroud ( ) |
-| 5 | A seven-faced prism|Illusion ( ) |
+| 5 | A seven-faced prism|Illusion |
 | 6 | A crystal Ball | Scry |
 | 7 | A circle of hide from a black salfskin | Portable Hole |
 | 8 | A copy of the Codex Sophia | Augury |
@@ -174,3 +174,4 @@ TODO
 | 19 | Cooking Gear | |
 | 20 | | |
 | 21 | Bedroll (2 slots) | |
+
