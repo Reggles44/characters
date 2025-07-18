@@ -106,7 +106,7 @@ Lore: 1
 
 ### Experience
 
-Unspent Experience Points: 3
+Unspent Experience Points: 5
 
 ### Diseases
 
@@ -133,37 +133,44 @@ TODO
 
 ### Armour
 
-| Right Hand | Helm | Armor | Left Hand |
-| :--------: | :--: | :---: | :-------: |
-|            |      |       |           |
+| Slot | Item | Note |
+| :--: | :--: | :--: |
+| Right Hand | | |
+| Helm | | |
+| Armor | | |
+| Left Hand | | |
 
 ### Belt
 
-1. Archwood Wand
-2. Spyglass
-3. Shovel (2 belt slots)
-4.
+| Slot | Item | Note |
+| :--: | :--: | :--: |
+| 1 | Archwood Wand | |
+| 2 | Spyglass | |
+| 3 | Shovel (2 belt slots) | |
+| 4 | | |
 
 ### Pack
 
-1. Give Form to Nothingness ( )
-2. Sleep ( )
-3. Change Size ( )
-4. Shroud ( )
-5. Illusion
-6. Scry
-7. Portable Hole
-8. Augury
-9. Feather
-10. Life
-11. 5 Gold
-12. Clothes Common
-13. Lard
-14. Lard
-15. Pipe and Pipeweed
-16. Rations
-17. Rations
-18. Fishing Gear
-19. Cooking Gear
-20.
-21. Bedroll (2 slots)
+| Slot | Item | Note |
+| :--: | :--: | :--: |
+| 1 | A drum made of the hide of an albino deer | Give Form to Nothingness ( ) |
+| 2 | A pouch of powder | Sleep ( ) |
+| 3 | A twine of tails from a rat king|Change Size ( ) |
+| 4 | The funerary winding-sheet of one who died by an elf's arroww|Shroud ( ) |
+| 5 | A seven-faced prism|Illusion ( ) |
+| 6 | A crystal Ball | Scry |
+| 7 | A circle of hide from a black salfskin | Portable Hole |
+| 8 | A copy of the Codex Sophia | Augury |
+| 9 | A feather from a lamassu|Feather |
+| 10 | The finger bone of a holy person | Binding |
+| 11 | A vial of quicksilver | Animate Object |
+| 12 | Clothes Common | |
+| 13 | Lard | |
+| 14 | Lard | |
+| 15 | Pipe and Pipeweed | |
+| 16 | Rations | |
+| 17 | Rations | |
+| 18 | Fishing Gear | |
+| 19 | Cooking Gear | |
+| 20 | | |
+| 21 | Bedroll (2 slots) | |
